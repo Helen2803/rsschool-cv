@@ -63,3 +63,5 @@ Creation of a company website
 State Educational Institution of Higher Professional Education "Belgorod State Technological University named after V.G. Shukhov"
 Engineering , Software for computing and automated systems
 
+**Language skills:**
+Pre-intermediate English
