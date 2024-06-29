@@ -19,17 +19,17 @@ I have a higher education in the specialty of software engineer. I worked as a c
 https://github.com/Helen2803/rsschool-cv.git
 
 **Work experience:**
-February  2022 - present
+_February  2022 - present_
 CSN
 web developer junior
 Website administration, making amendments according to technical specifications
 
-April  2013 – january  2022
+_April  2013 – january  2022_
 Distant work
 webmaster
 Installation, administration of websites (more details in About me)
 
-March  2013 - april  2013
+_March  2013 - april  2013_
 Belobltekhinventarizatsiya
 Software Engineer
 Administration of computer networks and servers.
@@ -39,7 +39,7 @@ Installation and configuration of software.
 Consultation and training of users.
 Telephone conversations and processing of incoming correspondence.
 
-January  2011 - july  2012
+_January  2011 - july  2012_
 Modern Humanitarian Academy
 Educational institutions
 
@@ -53,7 +53,7 @@ User consultation and training.
 Installation and configuration of satellite equipment software.
 Telephone conversations and processing of incoming correspondence.
 
-July  2010 — december  2010
+_July  2010 — december  2010_
 IP Chasovskikh A.V.
 Programmer
 Creation of a company website
