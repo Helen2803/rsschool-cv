@@ -105,7 +105,7 @@
 }
 
 .photo{
-width: 300px;
+width: 200px;
 }
 
 .logo-rs{
@@ -128,3 +128,16 @@ a {
     align-items: center;
 }
 
+.photo-contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.photo-contact section {
+    width: 33%;
+}
+
+h1.section-title {
+    font-size: 46px;
+  }
