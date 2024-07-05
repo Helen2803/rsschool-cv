@@ -73,3 +73,28 @@
     width: 100%;
   }
 }
+
+.photo{
+width: 300px;
+}
+
+.logo-rs{
+    width: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+  }
+  
+  a:hover {
+    color: #5d7260;
+  }
+  
+  .footer-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
