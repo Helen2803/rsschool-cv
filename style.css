@@ -54,7 +54,7 @@
 
  .section {
     width: 50%;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
   }
 
   .section-title {
@@ -71,6 +71,22 @@
   }
   .section-item a:hover {
     color: #4d2323;
+  }
+
+  .section-item {
+    position: relative;
+    padding-left: 30px;
+  }
+  
+  .section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #829985;
+    border-radius: 50%;
   }
 
   .date-of-work {
