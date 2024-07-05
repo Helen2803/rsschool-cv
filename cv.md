@@ -1,24 +1,24 @@
-Name:
+**Name:**
 Helen Savinova
 
-Telephone number:
+**Telephone number:**
 +79103200050
 
-Discord nickname:
+**Discord nickname:**
 Helen2803
 
-E-mail:
+**E-mail:**
 elena-kozyrevskaya@yandex.ru
 
-Objective:
+**Objective:**
 I have a higher education in the specialty of software engineer. I worked as a content manager and webmaster. I have experience in developing websites from scratch, eliminating minor layout problems (css, html). I studied the training materials on layout and I want to become a frontend developer.
 
-Skills: html, css, git, VS Code, Photoshop, Figma, CorelDraw
+**Skills:** html, css, git, VS Code, Photoshop, Figma, CorelDraw
 
-Projects:
+**Projects:**
 https://github.com/Helen2803/rsschool-cv.git
 
-Work experience:
+**Work experience:**
 _February  2022 - present_
 CSN
 web developer junior
@@ -58,10 +58,10 @@ IP Chasovskikh A.V.
 Programmer
 Creation of a company website
 
-Education: 
+**Education:** 
 2010
 State Educational Institution of Higher Professional Education "Belgorod State Technological University named after V.G. Shukhov"
 Engineering , Software for computing and automated systems
 
-Language skills:
+**Language skills:**
 Pre-intermediate English
