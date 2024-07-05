@@ -131,7 +131,7 @@ a {
 .photo-contact {
     display: flex;
     justify-content: space-between;
-    align-items: center;    
+    align-items: center;
 }
 
 .photo-contact section {
@@ -140,4 +140,14 @@ a {
 
 h1.section-title {
     font-size: 46px;
+  }
+
+  .flex-main {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+  .work-experience, .about-me, .section-item {
+    width: 180%;
   }
