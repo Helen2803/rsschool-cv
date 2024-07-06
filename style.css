@@ -151,3 +151,27 @@ h1.section-title {
   .work-experience, .about-me, .section-item {
     width: 180%;
   }
+
+  ul {
+    list-style-type: none;
+  }
+
+  li{
+    margin-left: -39px;
+  }
+
+  .contacts{
+    position: relative;
+    padding-left: 30px;
+  }
+
+  .contacts::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #829985;
+    border-radius: 50%;
+  }
