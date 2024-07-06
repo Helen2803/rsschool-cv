@@ -1,0 +1,177 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("assets/fonts/RobotoThin.ttf");
+    font-weight: 100;
+  }
+  @font-face {
+    font-family: "Roboto";
+    src: url("assets/fonts/RobotoRegular.ttf");
+    font-weight: 300;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(208, 227, 245);
+  }
+
+   .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav-link {
+    padding: 0 30px;
+    line-height: 50px;
+    transition: 0.3s;
+  }
+
+ .section {
+    width: 50%;
+    margin-bottom: 60px;
+  }
+
+  .section-title {
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  }
+
+  .section-item a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+  }
+  .section-item a:hover {
+    color: #4d2323;
+  }
+
+  .section-item {
+    position: relative;
+    padding-left: 30px;
+  }
+  
+  .section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #829985;
+    border-radius: 50%;
+  }
+
+  .date-of-work {
+    font-weight: 400;
+  }
+  
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+ @media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.photo{
+width: 200px;
+}
+
+.logo-rs{
+    width: 50px;
+}
+
+hr {
+    background-color: #0868e6;
+    height: 4px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 400;
+    color: #0868e6;
+    transition: color 0.5s;
+  }
+  
+  a:hover {
+    color: #5d7260;
+  }
+  
+  .footer-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.photo-contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.photo-contact section {
+    width: 33%;
+}
+
+h1.section-title {
+    font-size: 46px;
+  }
+
+  .flex-main {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+  .work-experience, .about-me, .section-item {
+    width: 180%;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  li{
+    margin-left: -39px;
+  }
+
+  .contacts{
+    position: relative;
+    padding-left: 30px;
+  }
+
+  .contacts::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #829985;
+    border-radius: 50%;
+  }
